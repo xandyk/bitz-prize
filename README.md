@@ -8,7 +8,7 @@
 npm install next react react-dom
 ```
 
-- Open package.json and add the following scripts:
+- Open ' package.json ' and add the following ' scripts ':
 
 ```sh
 "scripts": {
@@ -17,9 +17,9 @@ npm install next react react-dom
 "start": "next start"
 ```
 
-- Create a 'pages' directory inside your project
+- Create a ' pages ' directory inside your project
 
-- Populate './pages/inde.js' with the following contents:
+- Populate ' ./pages/inde.js ' with the following contents:
 
 ```sh
 HomePage() => {
