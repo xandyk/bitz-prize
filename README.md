@@ -29,3 +29,9 @@ HomePage() => {
 
 export default HomePage
 ```
+
+- To start the server:
+
+```sh
+npm run dev
+```
