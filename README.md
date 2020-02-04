@@ -19,7 +19,7 @@ npm install next react react-dom
 
 - Create a ' pages ' directory inside your project
 
-- Populate ' ./pages/inde.js ' with the following contents:
+- Populate ' ./pages/index.js ' with the following contents:
 
 ```sh
 HomePage() => {
