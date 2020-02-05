@@ -22,12 +22,10 @@ npm install next react react-dom
 - Populate ' ./pages/index.js ' with the following contents:
 
 ```sh
-HomePage() => {
-  return 
-  <div>Welcome to Next.js!</div>
-}
-
-export default HomePage
+export default () =>
+<div>
+Hello Next.js!
+</div>
 ```
 
 - To start the server:
