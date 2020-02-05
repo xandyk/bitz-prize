@@ -23,9 +23,7 @@ npm install next react react-dom
 
 ```sh
 export default () =>
-<div>
-Hello Next.js!
-</div>
+<div> Hello Next.js! </div>
 ```
 
 - To start the server:
